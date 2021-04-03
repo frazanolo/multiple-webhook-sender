@@ -4,7 +4,7 @@
             "webhook": "https://discordapp.com/api/webhooks/WEBHOOK_ID/WEBHOOK_TOKEN",
             "color": "HTML COLOR CODE",
             "footer_text": "FOOTER TEXT",
-            "footer_image": "footer.png"
+            "footer_image": "footer.png",
             "author_name": "AUTOR NAME",
             "author_image": "author.png",
             "author_url": "AUTHOR URL"
@@ -13,7 +13,7 @@
             "webhook": "https://discordapp.com/api/webhooks/OTHER_WEBHOOK_ID/OTHER_WEBHOOK_TOKEN",
             "color": "OTHER HTML COLOR CODE",
             "footer_text": "OTHER FOOTER TEXT",
-            "footer_image": "other_footer.png"
+            "footer_image": "other_footer.png",
             "author_name": "OTHER AUTOR NAME",
             "author_image": "other_author.png",
             "author_url": "OTHER AUTHOR URL"
